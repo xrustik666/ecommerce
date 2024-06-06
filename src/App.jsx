@@ -3,8 +3,8 @@ import { useState } from 'react';
 import categories from './fake-data/all-categories';
 import products from './fake-data/all-products';
 
-import Categories from './categories';
-import Products from './products';
+import Categories from './Categories.jsx';
+import Products from './Products.jsx';
 
 import './App.css';
 
